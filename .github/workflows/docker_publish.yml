@@ -25,3 +25,9 @@ jobs:
       
     - name: Run UnitTests
       run: mvn test
+    
+    - name: Build Docker Image
+      run: docker build -t gardagabor/authors-docker-repo .
+      
+    - name: Push Image to Repo
+      run: docker push gardagabor/authors-docker-repo
