@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: io.swagger.test.TestAuthorsApiController
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.93 s - in io.swagger.test.TestAuthorsApiController
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.91 s - in io.swagger.test.TestAuthorsApiController
