@@ -6,7 +6,6 @@ io\swagger\model\Author.class
 io\swagger\configuration\CustomInstantDeserializer$8.class
 io\swagger\configuration\CustomInstantDeserializer$4.class
 io\swagger\configuration\JacksonConfiguration.class
-io\swagger\testingweb\TestAuthorsApiController.class
 io\swagger\api\ApiResponseMessage.class
 io\swagger\model\Book.class
 io\swagger\configuration\CustomInstantDeserializer$3.class
